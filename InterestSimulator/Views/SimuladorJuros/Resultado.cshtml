@@ -1,0 +1,18 @@
+﻿@model InterestSimulator.Models.SimuladorJuros
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultado do Simulador</title>
+</head>
+<body>
+    <h2>Resultado do Cálculo de Juros</h2>
+    <p>Capital Inicial: R$ @Model.CapitalInicial</p>
+    <p>Taxa de Juros: @Model.TaxaJuros %</p>
+    <p>Período: @Model.Periodo anos</p>
+    <p><strong>Valor Final:</strong> R$ @Model.ValorFinal</p>
+    <a href="@Url.Action("Index", "SimuladorJuros")">Voltar</a>
+</body>
+</html>

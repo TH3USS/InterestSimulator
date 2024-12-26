@@ -1,0 +1,30 @@
+﻿@model InterestSimulator.Models.SimuladorJuros
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador de Juros</title>
+</head>
+<body>
+    <h2>Simulador de Juros</h2>
+    <form asp-action="Calcular" method="post">
+        <div>
+            <label for="CapitalInicial">Capital Inicial:</label>
+            <input type="number" step="0.01" name="CapitalInicial" required />
+        </div>
+        <div>
+            <label for="TaxaJuros">Taxa de Juros (% ao ano):</label>
+            <input type="number" step="0.01" name="TaxaJuros" required />
+        </div>
+        <div>
+            <label for="Periodo">Período (em anos):</label>
+            <input type="number" name="Periodo" required />
+        </div>
+        <div>
+            <button type="submit">Calcular</button>
+        </div>
+    </form>
+</body>
+</html>
