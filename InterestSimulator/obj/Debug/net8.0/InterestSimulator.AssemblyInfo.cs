@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterestSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9f10baa3fbcb006fd82a89e4e9c561d9405ff54")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterestSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterestSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

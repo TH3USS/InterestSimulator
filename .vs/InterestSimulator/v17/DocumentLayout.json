@@ -1,25 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\InterestSimulator\\",
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\InterestSimulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\interestsimulator\\interestsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|c:\\users\\matheus\\documents\\projetos\\interestsimulator\\interestsimulator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|solutionrelative:interestsimulator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|c:\\users\\matheus\\documents\\projetos\\interestsimulator\\interestsimulator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|solutionrelative:interestsimulator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|c:\\users\\matheus\\documents\\projetos\\interestsimulator\\interestsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|solutionrelative:interestsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\interestsimulator\\interestsimulator\\views\\simuladorjuros\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|c:\\users\\matheus\\documents\\projetos\\interestsimulator\\interestsimulator\\views\\simuladorjuros\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|solutionrelative:interestsimulator\\views\\simuladorjuros\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\interestsimulator\\interestsimulator\\views\\simuladorjuros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|c:\\users\\matheus\\documents\\projetos\\interestsimulator\\interestsimulator\\views\\simuladorjuros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|solutionrelative:interestsimulator\\views\\simuladorjuros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\interestsimulator\\interestsimulator\\models\\simuladorjuros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|c:\\users\\matheus\\documents\\projetos\\interestsimulator\\interestsimulator\\models\\simuladorjuros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|solutionrelative:interestsimulator\\models\\simuladorjuros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\interestsimulator\\interestsimulator\\controllers\\simuladorjuroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|c:\\users\\matheus\\documents\\projetos\\interestsimulator\\interestsimulator\\controllers\\simuladorjuroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE49D152-C0A9-4FEE-A575-1E2FF64956F2}|InterestSimulator\\InterestSimulator.csproj|solutionrelative:interestsimulator\\controllers\\simuladorjuroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,10 +43,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\InterestSimulator\\InterestSimulator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InterestSimulator\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\InterestSimulator\\InterestSimulator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InterestSimulator\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T03:50:50.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\InterestSimulator\\InterestSimulator\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "InterestSimulator\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\InterestSimulator\\InterestSimulator\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "InterestSimulator\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAiwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T03:50:42.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\InterestSimulator\\InterestSimulator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\InterestSimulator\\InterestSimulator\\Program.cs",
               "RelativeDocumentMoniker": "InterestSimulator\\Program.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\InterestSimulator\\InterestSimulator\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\InterestSimulator\\InterestSimulator\\Program.cs",
               "RelativeToolTip": "InterestSimulator\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,55 +81,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Resultado.cshtml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\InterestSimulator\\InterestSimulator\\Views\\SimuladorJuros\\Resultado.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\InterestSimulator\\InterestSimulator\\Views\\SimuladorJuros\\Resultado.cshtml",
               "RelativeDocumentMoniker": "InterestSimulator\\Views\\SimuladorJuros\\Resultado.cshtml",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\InterestSimulator\\InterestSimulator\\Views\\SimuladorJuros\\Resultado.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\InterestSimulator\\InterestSimulator\\Views\\SimuladorJuros\\Resultado.cshtml",
               "RelativeToolTip": "InterestSimulator\\Views\\SimuladorJuros\\Resultado.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T02:36:17.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\InterestSimulator\\InterestSimulator\\Views\\SimuladorJuros\\Index.cshtml",
-              "RelativeDocumentMoniker": "InterestSimulator\\Views\\SimuladorJuros\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\InterestSimulator\\InterestSimulator\\Views\\SimuladorJuros\\Index.cshtml",
-              "RelativeToolTip": "InterestSimulator\\Views\\SimuladorJuros\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T02:35:45.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:36:17.5Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SimuladorJurosController.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\InterestSimulator\\InterestSimulator\\Controllers\\SimuladorJurosController.cs",
-              "RelativeDocumentMoniker": "InterestSimulator\\Controllers\\SimuladorJurosController.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\InterestSimulator\\InterestSimulator\\Controllers\\SimuladorJurosController.cs",
-              "RelativeToolTip": "InterestSimulator\\Controllers\\SimuladorJurosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:34:10.269Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\InterestSimulator\\InterestSimulator\\Views\\SimuladorJuros\\Index.cshtml",
+              "RelativeDocumentMoniker": "InterestSimulator\\Views\\SimuladorJuros\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\InterestSimulator\\InterestSimulator\\Views\\SimuladorJuros\\Index.cshtml",
+              "RelativeToolTip": "InterestSimulator\\Views\\SimuladorJuros\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T02:35:45.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "SimuladorJurosController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\InterestSimulator\\InterestSimulator\\Controllers\\SimuladorJurosController.cs",
+              "RelativeDocumentMoniker": "InterestSimulator\\Controllers\\SimuladorJurosController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\InterestSimulator\\InterestSimulator\\Controllers\\SimuladorJurosController.cs",
+              "RelativeToolTip": "InterestSimulator\\Controllers\\SimuladorJurosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:34:10.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SimuladorJuros.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\InterestSimulator\\InterestSimulator\\Models\\SimuladorJuros.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\InterestSimulator\\InterestSimulator\\Models\\SimuladorJuros.cs",
               "RelativeDocumentMoniker": "InterestSimulator\\Models\\SimuladorJuros.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\InterestSimulator\\InterestSimulator\\Models\\SimuladorJuros.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\InterestSimulator\\InterestSimulator\\Models\\SimuladorJuros.cs",
               "RelativeToolTip": "InterestSimulator\\Models\\SimuladorJuros.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:33:09.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:33:09.317Z"
             }
           ]
         },
